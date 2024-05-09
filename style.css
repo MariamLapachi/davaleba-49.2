@@ -1,0 +1,33 @@
+#boxfirst {
+    width: 350px;
+    height: 160px;
+    border: 1px solid white;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 3px;
+}
+
+#boxsecond {
+    width: 350px;
+    height: 160px;
+    border: 1px solid white;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 72px;
+}
+
+#textfirst{
+    margin-top: 0px;
+    color: #777777;
+}
+
+#textsecond{
+    margin-top: 0px;
+    color: #ff0000;
+}
+
+h3 {
+    text-align: center;
+    color: #001AFF;
+    padding-top: 20px;
+}
